@@ -1,1 +1,0 @@
-# St20329043_CMP7005_PRAC1.ipynb
